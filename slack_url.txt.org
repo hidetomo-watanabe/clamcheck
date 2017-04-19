@@ -1,0 +1,1 @@
+https://hooks.slack.com/services/hoge1/hoge2/hoge3
