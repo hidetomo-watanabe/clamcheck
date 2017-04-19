@@ -1,0 +1,1 @@
+00 * * * * cd ~/works/clamcheck; sh ./check.sh
